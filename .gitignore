@@ -6,6 +6,8 @@
 .backup
 .DS_Store
 *.zip
+obj
+bin
 
 # User-specific files
 *.rsuser
